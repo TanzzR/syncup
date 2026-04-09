@@ -7,7 +7,7 @@ import { createCalendarEvent, deleteCalendarEvent, syncScheduleToCalendar } from
 // ========================
 // CONFIGURATION
 // ========================
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://syncup-4ny1.onrender.com/api';
 const GOOGLE_CLIENT_ID = '865205653141-21qk4a04jhl58p61evqdfkvd2kq6dj6o.apps.googleusercontent.com';
 
 // ========================
